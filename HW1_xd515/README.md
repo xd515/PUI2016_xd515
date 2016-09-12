@@ -5,4 +5,5 @@ The steps to set up my environment:
     3. Tell the terminal the change.  -source .bash_profile
     4. Pronounce the name I have set for the environmental variable.   -echo $PUI2016
 ![](Screen Shot 2016-09-11 at 11.12.41 PM.png)
-1[](Screen Shot 2016-09-11 at 11.14.22 PM.png)
+
+![](Screen Shot 2016-09-11 at 11.14.22 PM.png)
