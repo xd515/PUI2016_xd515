@@ -1,4 +1,4 @@
-Yao Wang and Zhou Jie gave me a lot of help with this assignment.
+Yao Wang and Zhou Jie gave me a lot of help with assignment 1. Cheng Hou and Zhaohong Niu helped me a lot with assignment 3.
 
 Assignment 1
 
@@ -6,7 +6,7 @@ Assignment 1
 1. Learned how to read data in json.
  
 
-2.learned hwow to get the data I need.
+2.Learned how to get the data I need.
 
 
 3.Applied jsonview when looking at the data on website.
@@ -26,6 +26,6 @@ Assignment 2
 Assignment 3
 
 
-Have not finished yet.
+Learned how to read CSV.
 
 
