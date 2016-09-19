@@ -4,10 +4,8 @@ import os
 import urllib2 
 import sys
 
-key = sys.argv[1]
-bus = sys.argv[2]
-
 apikey = os.getenv("BUSAPIKEY")
+bus = sys.argv[2]
 url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?\
 key=2a4a54c7-f386-4aaf-90a7-82fe5ed31bc4&VehicleMonitoringDetailLevel=calls&LineRef=B52"
 
