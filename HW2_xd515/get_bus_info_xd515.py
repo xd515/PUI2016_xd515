@@ -34,4 +34,3 @@ with open with open(sys.argv[3], 'wb') as csvfile:
                 Stop_Status = busline[i]['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][0]['Extensions']['Distances']['PresentableDistance']
                     
             writer.writerow([Lat, Lon, Stop_Name, Stop_Status])
-    xd515
