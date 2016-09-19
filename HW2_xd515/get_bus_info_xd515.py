@@ -18,7 +18,7 @@ busline = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]\
                 ['VehicleActivity']
 busnumber = len(busline)
 
-with open with open(sys.argv[3], 'wb') as csvfile:
+with open(sys.argv[3], 'wb') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(['Latitude', 'Longitude', 'Stop Name', 'Stop Status'])
         
