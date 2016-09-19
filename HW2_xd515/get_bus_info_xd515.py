@@ -14,7 +14,7 @@ data = response.read()
 data = json.loads(data)
 print (data)
 
-# Author: Febhere
+# Author: Fedhere
 
 data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][0]
 busline = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]\
