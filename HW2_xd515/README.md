@@ -2,6 +2,7 @@ Yao Wang and Zhou Jie gave me a lot of help with this assignment.
 
 Assignment 1
 
+
 1. Learned how to read data in json.
  
 
