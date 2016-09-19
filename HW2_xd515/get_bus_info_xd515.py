@@ -5,6 +5,7 @@ import urllib2
 import sys
 
 apikey = os.getenv("BUSAPIKEY")
+bus = sys.argv[2]
 url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?\
 key=2a4a54c7-f386-4aaf-90a7-82fe5ed31bc4&VehicleMonitoringDetailLevel=calls&LineRef=B52"
 
@@ -12,6 +13,8 @@ response = urllib2.urlopen(url)
 data = response.read()
 data = json.loads(data)
 print (data)
+
+# Author: Febhere
 
 data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][0]
 busline = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]\
