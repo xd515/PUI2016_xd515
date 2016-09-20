@@ -21,6 +21,8 @@ Assignment 2
 
 2.Paid attention to N/A data.
 
+Just now I found there were missing lines for assignment 2 and added them.
+
 
 
 Assignment 3
