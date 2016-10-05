@@ -1,5 +1,5 @@
 Assignment 1
 
-I have read the project of Ian and come up with a few sugestions of the dataset. 
+I have read the project of Ian and come up with a few suggestions of the dataset. 
 
 Assignment 2
