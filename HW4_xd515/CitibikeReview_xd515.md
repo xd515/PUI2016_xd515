@@ -14,7 +14,7 @@ I am totally agree with your h0 and h1. I would make this argument in your proje
 
 About the test
 
-I think you could take z test for what you are comparing are means.
+I think you could take t test for what you are comparing are means.
 
 Comments
 
