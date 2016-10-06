@@ -30,4 +30,6 @@ I followed the notebook and ran the codings for the tesitng. In the process I le
 
 ##Assignment4
 
-Working Alone
+Working with Caiyue
+
+I worked in this piece of homework not that much smoothly and I would figure out what happened.
