@@ -18,4 +18,12 @@ ChiSquare	| 19, data of people of different ages and with different habbits of s
   |||||||||
   
   
- ##Assignment3
+##Assignment3
+
+Working alone
+
+I followed the notebook and ran the codings for the tesitng. In the process I learned how to reject the null hypothesis and built a mind to test the process by different tests.
+
+##Assignment4
+
+Working Alone
