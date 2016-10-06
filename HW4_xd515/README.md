@@ -4,6 +4,8 @@ I have read the project of Ian and come up with a few suggestions of the dataset
 
 ##Assignment 2
 
+Working Alone
+
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 PathAnalysis	| 6, six kinds of antimicrobials | continous ordinal | 1, low-grade of inflammation under kinds of antimicrobials | continous ordinal | 3, obesity, current smoking status, comorbidity | ordinal | Whether low-grade inflammation (LGI) is associated with a subsequently increased risk of infection. | LGI and infection are Interfering
