@@ -18,4 +18,4 @@ Yaowang help me with this assignment.
 
 ## Assignment 3
 
-Excercise the ability to make H0 and H1.
+Excercise the ability to make H0 and Ha.
