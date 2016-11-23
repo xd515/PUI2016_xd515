@@ -4,6 +4,6 @@ According to both Maroan I and LISA analysis, I find that there is little differ
 
 summers and winters. Although the average amount of rideship in summers is higher than that of winters, the basic
 
-spatial patterns of hot spots and cold spots are almost the same. However the spatial pattern in uptown of Manhattan is 
+spatial patterns of hot spots and cold spots are almost the same. However the spatial pattern in uptown of Manhattan is  
 
 different between summers and winters.
